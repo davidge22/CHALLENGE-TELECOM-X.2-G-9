@@ -72,5 +72,7 @@ Se analizaron frecuencias de variables como:
 
 ## 👤 Autor
 
-Jonathan Puerta Gallego
+David Alonso García Espichán
+Ing. Civil 
+Parte del Programa ONE de Alura Latam G-9
 
